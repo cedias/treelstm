@@ -132,6 +132,6 @@ if __name__ == '__main__':
     # download dependencies
     download_tagger(lib_dir)
     download_parser(lib_dir)
-    download_wordvecs(wordvec_dir)
-    download_sick(sick_dir)
+    #download_wordvecs(wordvec_dir)
+    #download_sick(sick_dir)
     download_sst(sst_dir)
